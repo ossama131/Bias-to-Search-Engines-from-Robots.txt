@@ -3,10 +3,14 @@
 The notebooks try to answer the following question:
   ##### Does a robot bias exist?
 
-Data was collected CommonCrawl: 
+Data was collected from CommonCrawl: 
   >an open repository of web crawl data that can be accessed and analyzed by anyone.
 
-To answer the main question, the approach and algorithm suggested in the research paper [[1]](#1) was used
+To answer the main question, the approach and algorithm suggested in the research paper [[1]](#1) were used.
+
+The paper proposed > a quantitative metric to automatically measure robot biases.
+
+Please refer to the paper for more details about the algorithm used to measure bias of one robots.txt file towards one search engine, in the notebook only an implementation of the algorithm is provided.
 
 ## References
 <a id="1">[1]</a> 
