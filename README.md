@@ -1,7 +1,7 @@
 # Determining Bias to Search Engines from Robots.txt
 
 One paper 
-@inproceedings{sun2007determining,
+@article{sun2007determining,
   title={Determining bias to search engines from robots. txt},
   author={Sun, Yang and Zhuang, Ziming and Councill, Isaac G and Giles, C Lee},
   booktitle={IEEE/WIC/ACM International Conference on Web Intelligence (WI'07)},
